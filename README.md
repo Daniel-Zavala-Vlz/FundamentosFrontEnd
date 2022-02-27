@@ -1,27 +1,45 @@
-# Practicas de Intro a Frontend
+# FrontEnd-Mision
 
-Para las practicas de esta semana tendrán el siguiente caso y a raiz de eso sacar los puntos mencionados abajo.
+## Bienvenidos Explorers!
 
-**Caso: Abogabot**
-Descripción: 
-- Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
-- Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
-- Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
-- El administrador del sitio recbe la notificación de una nueva demanda y con los datos llenados del formulario se crea automaticamente el documento  legal en formato word para empezar el proceso.
-- El administrador recibe el pago y debe de ser capaz de verlo en un dashboard para ver la cantidad de ingresos recibidos.
-- El administrador actualiza el proceso de la demanda y agrega comentarios en cada paso del proceso.
-- Al usuario le llegan correos de notificación para saber el avance de su proceso.
-- La página debe de ser responsive para poderla ver desde el celular.
-- La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+Estas entrando en tu misión de FrontEnd!
+
+En esta misión veremos la mágia de cómo funcionan las aplicaciones y es tu introducción a la programación Web en su camino a convertirse en programadores FullStack.
 
 
-- **Practicas**
-	- [Toma de requerimientos](./1.-requerimientos.md)
-    - [Crea tu buyer persona](./2.-buyerPersona.md)
-	- [Publico objetivo](./3.-publicoObjetivo.md)
-	- [Crea tu primer Wireframe UX](./4.-wireframe.md)
-	- [Ahora el UI](./5.-ui.md)
+---
 
-Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
+## Organización de MISIÓN FRONTEND
 
-***¡Vámonos hasta el espacio y más allá Explorers!***
+El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el curso
+
+1. [Programación FrontEnd](https://github.com/romarpla/FrontEnd-Mision/tree/main/01%20-%20INTRO)
+    - ¿Qué es la programación FRONTEND?
+	- ¿Para que sirve la programación FRONTEND?
+	- En qué consiste la programación FRONTEND
+	- Tecnologías aplicadas
+	- SETUP de programación Web
+	- Estructura de páginas web
+	- Estructura y limpieza de código
+
+2. [HTML](https://github.com/romarpla/FrontEnd-Mision/tree/main/02%20-%20HTML)
+    - ¿Qué es HTML?
+	- Estructura de archivo HTML
+	- Sintaxis de etiquetas
+	- Titulos / Headings
+	- Parrafos / Paragraphs
+	- Imágenes / Images
+	- Enlaces / Links
+	- Tablas / Tables
+	- Listas / Listas
+	- Entradas / Input
+	- Botón / Button
+	- Formularios / Forms
+	- Rutas / Routes
+	- Acomodo / Layout
+	- Barra de navegación / NavBar - SideBar
+	- Pie de página / Footer
+	- Filas y columnas / Rows & Columns
+	- Propiedades de etiquetas / Properties
+	- Práctica de HTML
+
