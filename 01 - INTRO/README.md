@@ -16,11 +16,11 @@ Descripción:
 
 
 - **Practicas**
-	- [Toma de requerimientos](./1.-requerimientos.pdf)
+	- [Toma de requerimientos](./1.-Requerimientos.pdf)
     - [Crea tu buyer persona](./2.-buyerPersona.pdf)
 	- [Publico objetivo](./3.-publicoObjetivo.pdf)
 	- [Crea tu primer Wireframe UX](./4.-wireframe.pdf)
-	- [Ahora el UI](./5.-diseñoUi.md)
+	- [Ahora el UI](./5.-diseñoUi.pdf)
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
