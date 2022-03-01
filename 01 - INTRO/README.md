@@ -16,7 +16,7 @@ Descripción:
 
 
 - **Practicas**
-	- [Toma de requerimientos](./1.-Requerimientos.pdf)
+	- [Toma de requerimientos](./1.-Reqierimientos.pdf)
     - [Crea tu buyer persona](./2.-buyerPersona.pdf)
 	- [Publico objetivo](./3.-publicoObjetivo.pdf)
 	- [Crea tu primer Wireframe UX](./4.-wireframe.pdf)
