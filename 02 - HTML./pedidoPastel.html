@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Levantar Pedido Patel</title>
+</head>
+
+<style>
+    *{
+        background-color: #6F5764;
+    }
+
+    .colorLetras{
+        color: white;
+    }
+    
+    .body{
+        text-align: center;
+    }
+
+    .colorBoton{
+        color: white;
+    }
+
+
+</style>
+
+
+<body class="body">
+
+    <h1>Aqui se hace el pedido</h1>
+
+    <div class="colorLetras">
+    <form action="pedido.js">
+        <label for="Nombre">Danos tu nombre</label><br>
+        <input type="text" id="Nombre" name="Nombre" placeholder="Nombre"></label><br><br>
+   
+        <label for="correo1">Ingresa tu Correo</label><br>
+        <input type="email" id="correo1" name="correo1" placeholder="Correo electronico"><br><br>
+        
+        <label for="tel1">Ingresa tu Numero</label><br>
+        <input type="tel" id="tel1" name="tel1" maxlength="10" placeholder="Numero de Celular"><br><br>
+
+        <label for="numeroDePasteles">¿Cuantos Pasteles va Querer?</label><br>
+        <input name="tel1" placeholder="Numero de Pasteles"><br><br>
+
+
+        <p>¿Para cuando quieres tu pastel?</p>
+        <input type="date" id="fecha1" name="fecha1"><br><br>
+    
+
+        <p>¿Para comer aqui o para llevar?</p>
+        <input type="radio" id="aqui"  name="aquiollevar" value="Aqui">
+        <label for="llevar">Aqui</label><br>
+
+        <input type="radio" id="llevar"  name="aquiollevar" value="Llevar">
+        <label for="llevar">Llevar</label><br><br>
+
+            <p>Sabor del pastel</p>
+        <input type="checkbox" name="vainilla">
+        <label for="vainilla">Vainilla</label><br>
+
+        <input type="checkbox" name="chocolate">
+        <label for="chocolate">Chocolate</label><br>
+
+        <input type="checkbox" name="fresa">
+        <label for="fresa">Fresa</label><br>
+
+        <input type="checkbox" name="chocolate">
+        <label for="chocolate">Chocolate</label><br>
+
+        <input type="checkbox" name="limon">
+        <label for="limon">Limón</label><br><br>
+
+
+
+        <p>Adornos para su Pastel</p>
+        <input type="checkbox" name="velas">
+        <label for="velas">Velas</label><br>
+
+        <input type="checkbox" name="numerosYLetras">
+        <label for="numerosYLetras">Numeros y Letras</label><br>
+
+        <input type="checkbox" name="bolsas">
+        <label for="bolsas">Bolsas</label><br>
+
+        <input type="checkbox" name="utensilios">
+        <label for="utensilios">Utensilios</label><br>
+
+        <input type="checkbox" name="confettiComestible">
+        <label for="confettiComestible">Confetti comestible</label><br>
+
+        <input type="checkbox" name="figurasDePlastico">
+        <label for="figurasDePlastico">Figuras de plastico</label><br>
+
+        <input type="checkbox" name="envoltorio">
+        <label for="envoltorio">Envoltorio</label><br>
+        </div>
+
+        
+
+        <br><br>
+        <input type="reset" class="colorBoton">
+        <input type="submit" class="colorBoton">
+        <br><br>
+
+
+    </form>
+</body>
+</html>
