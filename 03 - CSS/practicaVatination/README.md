@@ -1,7 +1,7 @@
 # Launch X - Frontend Mission - CSS
 
 ## Prácticas del módulo 3: CSS
-Aldo Santiago Castillo
+Daniel Zavala Velazquez
 
 ![rocket](img/rocket.gif)
 
